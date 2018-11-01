@@ -16,3 +16,9 @@ Structure of the Project
 
 # Power Supply
 Most important : Battery-Spot-Welder use the main 220Vac power supply. Super important to isolate the grounds. Pay attention.
+
+# High voltage power supply sharing ground with high voltage input
+ * High voltage in to Diac
+
+# High voltate input specs
+ * 240VAC 50Hz
