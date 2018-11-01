@@ -1,10 +1,6 @@
 /*************************************************** 
  Puntatrice SCR Control
  ***************************************************
- Metal Group srl
- Via Provinciale per Pilastri 208/A
- Tel +39.0532.894821 e.mail: metalgroup@metalgroup.org 
- 44012 Bondeno ( FE )  Italia
  ***************************************************
  2016-02-05 : V=0.1 - Initial release
  ***************************************************
